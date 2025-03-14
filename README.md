@@ -17,7 +17,7 @@ Soy una **ingeniera de sistemas** con experiencia en análisis de datos, intelig
 🔹 **Lenguajes:** SQL, Python (Pandas, NumPy)  
 🔹 **Visualización:** Power BI, Matplotlib, Seaborn  
 🔹 **Bases de datos:** MySQL, PostgreSQL  
-🔹 **ETL y Automatización:** Power Query, n8n, Make  
+🔹 **ETL y Automatización:** Power Query, power automate  
 🔹 **Control de versiones:** Git & GitHub  
 
 
