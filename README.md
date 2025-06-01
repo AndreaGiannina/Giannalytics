@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Andrea Giannina Quispe (Giannalytics)  
+# 👋 ¡Hola! Soy Andrea Giannina Quispe 
 
 🔹 **Analista de Datos | Business Intelligence | Data Storytelling**  
 🔹 Apasionada por convertir datos en decisiones estratégicas 📊  
